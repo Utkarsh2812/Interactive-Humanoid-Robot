@@ -27,12 +27,9 @@ Motor Movement table for Welcome gait
 3. Dance Gait: The calibration process for the dance gait involved calibration of motors present on both its hands . By fine-tuning parameters such as joint angles, velocity profiles, and synchronization, we achieved smooth and synchronized dance movements. The robot successfully performed a dance routine.
 ![WhatsApp Image 2024-04-23 at 09 50 41_6713c499](https://github.com/Utkarsh2812/Interactive-Humanoid-Robot/assets/91966216/d70ff509-ee94-447b-bfc7-63c379c448ed)
 
-Motor Movement table for Dance gait
+### Motor Movement table for Dance gait
 ![image](https://github.com/Utkarsh2812/Interactive-Humanoid-Robot/assets/91966216/34ab8a54-ab43-4c5f-a9d8-5d492a2da15f)
 
-Torque analysis of the gaits:
+### Torque analysis of the gaits:
 
 ![image](https://github.com/Utkarsh2812/Interactive-Humanoid-Robot/assets/91966216/85b22b08-17df-48ec-830a-da7c9cf20c3c)
-
-
-![WhatsApp Image 2024-04-23 at 09 50 40_663f02e8](https://github.com/Utkarsh2812/Interactive-Humanoid-Robot/assets/91966216/bf3aa15e-0af1-4381-9e78-8ef7ab624087)
